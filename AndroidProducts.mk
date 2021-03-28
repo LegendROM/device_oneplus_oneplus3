@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_oneplus3.mk
+    $(LOCAL_DIR)/legendrom_oneplus3.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_oneplus3-userdebug \
+    legendrom_oneplus3-userdebug \

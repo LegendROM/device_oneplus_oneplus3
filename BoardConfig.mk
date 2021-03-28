@@ -77,7 +77,7 @@ BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 TARGET_KERNEL_CLANG_COMPILE := true
 TARGET_KERNEL_BUILT_FROM_SOURCE := true
 TARGET_KERNEL_SOURCE := kernel/oneplus/msm8996
-KERNEL_DEFCONFIG := msm-oqc_defconfig
+KERNEL_DEFCONFIG := lineageos_oneplus3_defconfig
 
 include kernel/oneplus/msm8996/AndroidKernel.mk
 
